@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 <br />
 
 <img align="left" alt="ahmetcakirci's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmetcakircii&show_icons=true&hide_border=true" />
+
+<br />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ahmetcakircii.ahmetcakircii" style="max-width:100%;">
